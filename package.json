@@ -15,7 +15,7 @@
   "author": "Salim Al Sazu",
   "license": "ISC",
   "lint-staged": {
-    "src/**/*.ts": "npx lint-prettier"
+    "src/**/*.ts": "npm run lint-prettier"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
